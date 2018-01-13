@@ -1,6 +1,6 @@
-baseurl = "https://www.jskybowen.com/"
+baseurl = "https://jskybowen.com/"
 title = "Rants"
-copyright = "Copyright &copy; 2017 - Josh Bowen"
+copyright = "Copyright &copy; 2018 - Josh Bowen"
 canonifyurls = true
 theme = "kiera"
 
@@ -20,4 +20,4 @@ pygmentsCodeFences = true
     instagram = ""
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
+    tagline = "A place for my rants"

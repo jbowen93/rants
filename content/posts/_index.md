@@ -1,1 +1,5 @@
-+++ title = "Posts" menu = "main" weight = "10" +++
++++
+title = "Posts"
+menu = "main"
+weight = "10"
++++
