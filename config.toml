@@ -1,0 +1,23 @@
+baseurl = "https://www.jskybowen.com/"
+title = "Rants"
+copyright = "Copyright &copy; 2017 - Josh Bowen"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = ""
+    github = ""
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = ""
+    instagram = ""
+
+[params]
+    tagline = "A Hugo theme for creative and technical writing"
